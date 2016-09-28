@@ -12,7 +12,6 @@ I value:
 an organisation that takes pride in its work and its people,
 an organisation that is innovative and leads its people to grow professionally and personally with it,
 an organisation that understands that by providing a fun working and learning environment most often leads to great achievements,
-
 a team that loves learning by sharing,
 a team that lefts no man behind,
 a team that is passionate about their work and aiming to create things that matters to people.
@@ -37,7 +36,7 @@ as per KPI points set by VWR Management.
 #### Quality driven & Learning driven
 
 I am a natural-born perfectionist who calls a job well done, when it meets a zero-error
-standard (or beyond if time allows), can be easily followed-through and can be taken over with less instructions. My longing for learning is the good balance, when things do not go perfectly according to plan A. It then serves well as an opportunity to learn, resolve problems in order to deliver the best result at the time.
+standard (or beyond if time allows), can be easily followed-through and can be taken over with little instructions. My longing for learning is the good balance, when things do not go perfectly according to plan A. It then serves well as an opportunity to learn, resolve problems in order to deliver the best result at the time.
 
 - My main task when joining VWR as Quotation Associate was in dealing with quotations from customers for the Sales Organisation in Switzerland. Once I settled and understood the task and SAP procedures, I felt that the procedures taken care of by our team could be improved based on customer feedback and KPI performance. During spare times, I looked more in-depth into SAP procedures and tried to understand the broader picture of our Organisation's processes and procedures. Further on, I got involved in more tasks and took care of documentation of procedures and training of team members.
 - Achievement: Promoted as Senior Associate to lead the team on Switzerland Operations. / In preparation for the ISO9001 QMS, the Management Team selected me as one of their Quality Assurance Representatives.
@@ -76,7 +75,7 @@ I can say from life experience that a problem does not resolve itself by looking
 
 #### University of Northumbria, Newcastle upon Tyne (Sep 2006 to Jun 2007)
 
-- International Business Administration (Completion)
+- BA (Hons) in International Business Administration (Completion)
 - Focus: International Strategic Management, International Advertising
 - Activity: AIESECS Newcastle
 
@@ -102,25 +101,34 @@ I can say from life experience that a problem does not resolve itself by looking
 
 **CB Equity Partners, London** (Jul 2016)    
 *Executive Assistant / Office Manager (Holiday Cover)*  
+
 **European Medicines Agency, London** (Jun 2015 to Apr 2016)   
 *Assistant - Techn. & Meeting Support (Maternity Cover)*  
+
 **John Lewis Headquarter, London** (Mar 2016 to May 2016)   
-*PA to a Director and three Heads of Online Department  (Temporary Assignment)*
+*PA to a Director and three Heads of Online Department  (Temporary Assignment)*  
+
 **VWR, Mauritius** (Mar 2013 to Feb 2014 / Mar 2014 to Dec 2014)   
 *Senior Associate (Switzerland Operations)*
-*Quotation Associate (Switzerland Operations)*
+*Quotation Associate (Switzerland Operations)*  
+
 **Hilton Hotels & Resort, Mauritius** (Dec 2011 to Feb 2013)   
-*Guest Relations Officer*
+*Guest Relations Officer*  
+
 **Jade Group, Mauritius** (Aug 2011 to Nov 2011)   
-*Personal Assistant (Sales & Marketing)*
+*Personal Assistant (Sales & Marketing)*  
+
 **European Medicines Agency, London** (Feb 2009 to Mar 2011)   
-*OFFICE ASSISTANT/ ASSISTANT TO SECTION HEAD*
+*OFFICE ASSISTANT/ ASSISTANT TO SECTION HEAD*  
+
 **NHS Trust (Community Forensic Mental Health Team), London** (Sep 2008 to Jan 2009)   
-*PA/TEAM ADMINISTRATOR*
+*PA/TEAM ADMINISTRATOR*  
+
 **NHS Trust (Community Elderly Mental Health Team), London** (Sep 2007 to Aug 2008)   
 *Administrator*
 
 ## Interests
 
-The sounds of music and a good run hold the power of good balance in me;
+The sounds of music and a good run hold the power of good balance in me;    
+
 Food, Travel and photography offer me fascinating journeys to explore cultures, connect to people and the beauty of life.

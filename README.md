@@ -6,15 +6,9 @@
 
 I'm a former all-round Office Assistant, whose thirst for knowledge and whose curiosity has driven her beyond the User Interface to acquire the skills to venture into a new career as Junior Full Stack Developer.
 
-Besides fulfilling my responsibilities as full-time professional, I enjoyed running German classes and writing newsletter articles during my time at VWR, organised team challenges at the Hilton Hotels & Resorts, acted as Event Photographer for the Young Barristers' Committee (YBC) in Mauritius, and been actively involved in Cultural & Social events in Germany.
+Besides fulfilling my responsibilities as full-time professional, I enjoyed running German classes for colleagues at VWR, organised team challenges at the Hilton Hotels & Resorts, acted as Event Photographer for the Young Barristers' Committee (YBC) in Mauritius, and have been actively involved in Cultural & Social events in Germany.
 
-I value:
-an organisation that takes pride in its work and its people,
-an organisation that is innovative and leads its people to grow professionally and personally with it,
-an organisation that understands that by providing a fun working and learning environment most often leads to great achievements,
-a team that loves learning by sharing,
-a team that lefts no man behind,
-a team that is passionate about their work and aiming to create things that matters to people.
+I value an organisation that takes pride in its work and nurturing its people, and love to join a team that is passionate about creating things that have a positive impact on people's lives. 
 
 
 ## Personal Attributes
@@ -28,10 +22,16 @@ and team members I have been dealing with.
 was to ensure each guest is having a smooth and memorable stay with us. When issues
 occur, most importantly it was to listen to understand the guests' trouble and needs.
 The next steps then were to come up with a solution, follow-through till the issue is resolved and checking in on the guests to confirm they are happy with the outcome.  
-- My promotion at VWR to a Senior Associate involved in leading a team of five diverse team members with different work motivation. Since the definition of "team" and "teamwork" does not come lightly to me, I was keen to get to know each team member
+- My promotion at VWR to a Senior Associate involved in leading a team of diverse team members with different work motivation. Since the definition of "team" and "teamwork" does not come lightly to me, I was keen to get to know each team member
 and their motivation in order to create a strong and positive team.
 - Achievements: Awarded as the “best Team Member of the month of April 2012” (Front of the House) at the Hilton Mauritius Resort & SPA. / Increase of team performance
 as per KPI points set by VWR Management.
+
+#### Analytical
+
+- Dealt with big data at the European Medicines Agency.
+  - Statistics (quarterly and annual reports)
+  - Compliance check on data going years back to present to the Head of Department.
 
 #### Quality driven & Learning driven
 
@@ -73,29 +73,16 @@ I can say from life experience that a problem does not resolve itself by looking
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### University of Northumbria, Newcastle upon Tyne (Sep 2006 to Jun 2007)
-
-- BA (Hons) in International Business Administration (Completion)
-- Focus: International Strategic Management, International Advertising
-- Activity: AIESECS Newcastle
-
-#### Academy of Economics and World Trading Languages, Germany (Oct 2003 to Sep 2006)
-
-- Diploma in Tourism Management
-- Focus: Economics, Tourism, Law, Office Communication, Data Processing, Business English
-- Add-on modules: SAP R/3 Fundamentals, Public Relations
-
-#### Droste-Hülshoff-Gymnasium, Germany (graduated: Jun 2002)
-
-- Completed the "general qualification for university entrance"
-- A levels: English, Mathematics, German, History
-- Add-on module: Intermediate Latin Certificate
-
-## Other qualifications
-
 #### PRINCE2® (2009) Foundation, APMG International (passed: May 2016)
 
 - Introduction to PRINCE2 project management method, its principles, themes and terminology.
+
+#### Other qualifications
+
+- BA (Hons) International Business Administration (Completion) - University of Northumbria, Newcastle upon Tyne (Sep 2006 to Jun 2007)  
+- Diploma Tourism Management - Academy of Economics and World Trading Languages, Germany (Oct 2003 to Sep 2006)
+- "General qualification for university entrance"/A levels - Droste-Hülshoff-Gymnasium, Germany (grad.: Jun 2002)
+
 
 ## Experience
 
@@ -109,7 +96,7 @@ I can say from life experience that a problem does not resolve itself by looking
 *PA to a Director and three Heads of Online Department  (Temporary Assignment)*  
 
 **VWR, Mauritius** (Mar 2013 to Feb 2014 / Mar 2014 to Dec 2014)   
-*Senior Associate (Switzerland Operations)*
+*Senior Associate (Switzerland Operations)*  
 *Quotation Associate (Switzerland Operations)*  
 
 **Hilton Hotels & Resort, Mauritius** (Dec 2011 to Feb 2013)   
@@ -129,6 +116,6 @@ I can say from life experience that a problem does not resolve itself by looking
 
 ## Interests
 
-The sounds of music and a good run hold the power of good balance in me;    
+The sounds of **music** and a good **run** hold the power of good balance in me;    
 
-Food, Travel and photography offer me fascinating journeys to explore cultures, connect to people and the beauty of life.
+**Food**, **Travel** and **photography** offer me fascinating journeys to explore cultures, to connect to people and the beauty of life.

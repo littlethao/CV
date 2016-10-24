@@ -4,11 +4,13 @@
 
 ## Profile
 
-I'm a former all-round Office Assistant, whose thirst for knowledge and whose curiosity has driven her beyond the User Interface to acquire the skills to venture into a new career as Junior Full Stack Developer.
+I'm a former all-round Office Assistant, whose thirst for knowledge has driven her down the path to acquire the skills to venture into a new career as Junior Full Stack Developer.
 
 Besides fulfilling my responsibilities as full-time professional, I enjoyed running German classes for colleagues at VWR, organised team challenges at the Hilton Hotels & Resorts, acted as Event Photographer for the Young Barristers' Committee (YBC) in Mauritius, and have been actively involved in Cultural & Social events in Germany.
 
-I value an organisation that takes pride in its work and nurturing its people, and love to join a team that is passionate about creating things that have a positive impact on people's lives. 
+I value an organisation that takes pride in its work and nurturing its people, and love to join a team that is passionate about creating great software that have a positive impact on people's lives. 
+
+I am passionate about education, social development, and healthcare as well as getting involved in creative things that make people smile.
 
 
 ## Personal Attributes
@@ -24,8 +26,7 @@ occur, most importantly it was to listen to understand the guests' trouble and n
 The next steps then were to come up with a solution, follow-through till the issue is resolved and checking in on the guests to confirm they are happy with the outcome.  
 - My promotion at VWR to a Senior Associate involved in leading a team of diverse team members with different work motivation. Since the definition of "team" and "teamwork" does not come lightly to me, I was keen to get to know each team member
 and their motivation in order to create a strong and positive team.
-- Achievements: Awarded as the “best Team Member of the month of April 2012” (Front of the House) at the Hilton Mauritius Resort & SPA. / Increase of team performance
-as per KPI points set by VWR Management.
+
 
 #### Analytical
 
@@ -41,12 +42,9 @@ standard (or beyond if time allows), can be easily followed-through and can be t
 - My main task when joining VWR as Quotation Associate was in dealing with quotations from customers for the Sales Organisation in Switzerland. Once I settled and understood the task and SAP procedures, I felt that the procedures taken care of by our team could be improved based on customer feedback and KPI performance. During spare times, I looked more in-depth into SAP procedures and tried to understand the broader picture of our Organisation's processes and procedures. Further on, I got involved in more tasks and took care of documentation of procedures and training of team members.
 - Achievement: Promoted as Senior Associate to lead the team on Switzerland Operations. / In preparation for the ISO9001 QMS, the Management Team selected me as one of their Quality Assurance Representatives.
 
-#### Problem-solver
+#### Problem-solver & detail-oriented
 
-I can say from life experience that a problem does not resolve itself by looking away, but facing it. This most of the time involves analysing the issue/situation objectively, understanding the "how?", looking at it from different angles to see options to lead out from it, then taking the courage to make a decision and the courage to act upon it.
-
-- Whilst assisting the Signal Management Service Team at the European Medicines Agency, I managed and maintained the team's procedures on various databases and systems. I spotted that the current database did not cover the edge cases of our procedures, hence did not record it with the correct timelines and dates. This also lead to incorrect data being forwarded to Committee members in other EU countries, which in turn leads to delay of task distribution. I came up with various steps that can be taken to resolve this issue, presented these to our Data Management and IT teams. We were then able to rule out the best solution and implemented the changes shortly after.  
-- Achievements: During my time at the European Medicines Agency and at VWR, I continuously have been involved in processes to improve performance and procedures, which have been taken over by the teams.
+Whilst assisting the Signal Management Service Team at the European Medicines Agency, I managed and maintained the team's procedures on various databases and systems. I spotted that the current database did not cover the edge cases of our procedures, which lead to incorrect timelines being recorded. This also lead to incorrect data being forwarded to Committee members in other EU countries, which in turn leads to delay of task distribution. I came up with various steps that can be taken to resolve this issue, presented these to our Data Management and IT teams. We were then able to rule out the best solution and implemented the changes shortly after.  
 
 #### Languages
 
@@ -66,12 +64,15 @@ I can say from life experience that a problem does not resolve itself by looking
 
 #### Makers Academy (Jul 2016 to Nov 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+16-week intensive development bootcamp with focus on:
+- Object-orientated design
+- Test driven development
+- Behaviour driven development
+- Agile methods and practice
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine, Zombie
+- Pair programming, independent learning and problem-solving
+
 
 #### PRINCE2® (2009) Foundation, APMG International (passed: May 2016)
 

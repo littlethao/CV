@@ -2,7 +2,7 @@
 
 Recent graduate from Makers Academy, an intensive 16-week coding bootcamp, who has over 10 years of experience working in a variety of different support roles in law, medicine, retail, hospitality and business. Lived and worked in Germany, Mauritius and the United Kingdom.
 
-[Profile](#profile) | [Education](#education) | [Projects](#projects) | [Personal attributes](#personal attributes) | [Other qualifications](#other qualifications) | [Professional experience](#professional experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
+[Profile](#profile) | [Education](#education) | [Projects](#projects) | [Personal attributes](#personal-attributes) | [Other qualifications](#other-qualifications) | [Professional experience](#professional-experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
 
 ## Profile
 

@@ -1,50 +1,32 @@
 ## Thao Vo
 
+Recent graduate from Makers Academy, an intensive 16-week Web Developer bootcamp, who has 9 years experience working in a variety of different support roles in medicine, retail, hospitality and business. Lived and worked in Germany, Mauritius and the United Kingdom.
+
 [Profile](#profile) | [Personal Attributes](#personal attributes) | [Projects](#projects) |  [Education](#education) | [Other qualifications](#other qualifications) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
 
 ## Profile
 
-I'm a former all-round Office Assistant, whose thirst for knowledge has driven her down the path to acquire the skills to venture into a new career as Junior Full Stack Developer.
+I left a well-established career and joined Makers Academy to acquire new skills in web development to pursue a complete career change in to tech, convinced that it will allow me to work in a creative industry where I'm learning every day.
 
-Besides fulfilling my responsibilities as full-time professional, I enjoyed running German classes for colleagues at VWR, organised team challenges at the Hilton Hotels & Resorts, acted as Event Photographer for the Young Barristers' Committee (YBC) in Mauritius, and have been actively involved in Cultural & Social events in Germany.
+I am most passionate about education, social development, travel and healthcare as well as getting involved in creative things that make people smile. I enjoyed running German classes for colleagues at VWR, organised team challenges at the Hilton Hotels & Resorts and had good fun being the Event Photographer for the Young Barristers' Committee (YBC) in Mauritius.
 
-I value an organisation that takes pride in its work and nurturing its people, and love to join a team that is passionate about creating great software that have a positive impact on people's lives. 
-
-I am passionate about education, social development, and healthcare as well as getting involved in creative things that make people smile.
-
+I am currently looking for a **Full Stack Junior Developer role**, where I will be constantly challenged while evolving my new development skills. I'd love to join an innovative team that is passionate about creating great software that have a positive impact on people's lives.
 
 ## Personal Attributes
 
-#### Good Listener
+#### Curious learner & mentor
 
-Practicing active listening always lead me to a better understanding of customers
-and team members I have been dealing with.
+Always on a hunt for pursuing new knowledge, I always wonder how things work and plunge into new areas around my tasks, asking questions and trying out new things. My curiosity in understanding the broader picture around my work got me involved in the training of several new aspects of business operations and eventually I took over more operational procedures on site in Mauritius.
 
-- As a Guest Relations Officer at the Hilton Hotels & Resorts in Mauritius, my mission
-was to ensure each guest is having a smooth and memorable stay with us. When issues
-occur, most importantly it was to listen to understand the guests' trouble and needs.
-The next steps then were to come up with a solution, follow-through till the issue is resolved and checking in on the guests to confirm they are happy with the outcome.  
-- My promotion at VWR to a Senior Associate involved in leading a team of diverse team members with different work motivation. Since the definition of "team" and "teamwork" does not come lightly to me, I was keen to get to know each team member
-and their motivation in order to create a strong and positive team.
+As I was promoted to Senior to overlook the Swiss operational team on site, I saw it as an opportunity to create more mentoring opportunities to share knowledge within the whole team, which then improved the team performance by + 0.6 points within 4 months.
 
+#### Detail-oriented problem solver
 
-#### Analytical
+Whilst assisting the Signal Management Service Team at the European Medicines Agency, I managed and maintained the team's procedures on various databases and systems. I spotted that the current database did not cover the edge cases of our procedures, which lead to incorrect timelines being recorded. This also lead to incorrect data being forwarded to Committee members in other EU countries, which in turn leads to delay of task distribution. I came up with various steps that can be taken to resolve this issue, presented these to our Data Management and Technology Services teams. We were then able to rule out the best solution and implemented the changes shortly after.
 
-- Dealt with big data at the European Medicines Agency.
-  - Statistics (quarterly and annual reports)
-  - Compliance check on data going years back to present to the Head of Department.
+#### Organised team player & individualist
 
-#### Quality driven & Learning driven
-
-I am a natural-born perfectionist who calls a job well done, when it meets a zero-error
-standard (or beyond if time allows), can be easily followed-through and can be taken over with little instructions. My longing for learning is the good balance, when things do not go perfectly according to plan A. It then serves well as an opportunity to learn, resolve problems in order to deliver the best result at the time.
-
-- My main task when joining VWR as Quotation Associate was in dealing with quotations from customers for the Sales Organisation in Switzerland. Once I settled and understood the task and SAP procedures, I felt that the procedures taken care of by our team could be improved based on customer feedback and KPI performance. During spare times, I looked more in-depth into SAP procedures and tried to understand the broader picture of our Organisation's processes and procedures. Further on, I got involved in more tasks and took care of documentation of procedures and training of team members.
-- Achievement: Promoted as Senior Associate to lead the team on Switzerland Operations. / In preparation for the ISO9001 QMS, the Management Team selected me as one of their Quality Assurance Representatives.
-
-#### Problem-solver & detail-oriented
-
-Whilst assisting the Signal Management Service Team at the European Medicines Agency, I managed and maintained the team's procedures on various databases and systems. I spotted that the current database did not cover the edge cases of our procedures, which lead to incorrect timelines being recorded. This also lead to incorrect data being forwarded to Committee members in other EU countries, which in turn leads to delay of task distribution. I came up with various steps that can be taken to resolve this issue, presented these to our Data Management and IT teams. We were then able to rule out the best solution and implemented the changes shortly after.  
+Every role in my professional experience required me to be well organised, adaptable to change and whilst being flexible to respond to the multiple tasks and team members on often strict timelines, they also needed me to be capable to work independently and under little guidance. Feedback from my colleagues and line managers have always been that they were able to rely on me to ensure that procedures are being kept in line with the given procedural guidelines, regulations and timelines.
 
 #### Languages
 
@@ -54,40 +36,42 @@ Whilst assisting the Signal Management Service Team at the European Medicines Ag
 - French (CEFR A2.1 Certificate - lived and worked in Mauritius for 4 years)
 - Italian (basic level/high school module - comes in handy for travelling in Italy)
 
-## Projects
-
-- Final Project
-- MakersBnB
-- Chitter Challenge
-
 ## Education
 
 #### Makers Academy (Jul 2016 to Nov 2016)
 
-16-week intensive development bootcamp with focus on:
-- Object-orientated design
-- Test driven development
-- Behaviour driven development
-- Agile methods and practice
+From a complete beginner in coding, I have produced over 10 projects independently and collaboratively, all completed under very tight time constraints at Makers Academy whilst learning about agile methods and practice, a variety of technologies and programming concepts with focus on:
+
+- Software Craftsmanship
+- OOP, TDD, BDD, SOLID and MVC principles
+- Pair programming, independent learning and problem-solving
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Zombie
-- Pair programming, independent learning and problem-solving
 
 
-#### PRINCE2® (2009) Foundation, APMG International (passed: May 2016)
+#### Projects
 
-- Introduction to PRINCE2 project management method, its principles, themes and terminology.
+Below are a few selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
 
-#### Other qualifications
 
-- BA (Hons) International Business Administration (Completion) - University of Northumbria, Newcastle upon Tyne (Sep 2006 to Jun 2007)  
-- Diploma Tourism Management - Academy of Economics and World Trading Languages, Germany (Oct 2003 to Sep 2006)
-- "General qualification for university entrance"/A levels - Droste-Hülshoff-Gymnasium, Germany (grad.: Jun 2002)
+Project name  | Description  									| Development timeframe | Technologies | Testing
+------------- | ------------------------------	| ------------- |------------- |---------
+[Attendr](https://github.com/littlethao/attendr.git) | An events driven dating platform which matches people based on events they are both interested in. | 8 days (Teamwork) | Swift 3, xCode, NodeJS, PostgreSQL, Firebase, Facebook iOS SDK | Jasmine
+[MakersBnB](https://github.com/littlethao/makers_bnb.git) | AirBnb the Makers way | 4 days | Javascript, JQuery, NodeJS, PostgreSQL, Knex/Bookmark, Bootstrap CSS | Jasmine, Zombie
+[Instagram clone](https://github.com/littlethao/instagram-challenge.git) | A simple version of Instagram | 2 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha, Chai
+[Chitter challenge](https://github.com/littlethao/chitter-challenge.git) | A mini reproduction of Twitter | 2 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha, Chai
 
+## Other qualifications
+
+- **PRINCE2® (2009) Foundation, APMG International (passed: May 2016)**  
+Introduction to PRINCE2 project management method, its principles, themes and terminology.
+- **BA (Hons) International Business Administration (Completion)** - University of Northumbria, Newcastle upon Tyne (Sep 2006 to Jun 2007)  
+- **Diploma Tourism Management - Academy of Economics and World Trading Languages, Germany** (Oct 2003 to Sep 2006)
+- **A levels** - Droste-Hülshoff-Gymnasium, Germany (grad.: Jun 2002)
 
 ## Experience
 
-**CB Equity Partners, London** (Jul 2016)    
+**CB Equity Partners, London** (Jul 2016)   
 *Executive Assistant / Office Manager (Holiday Cover)*  
 
 **European Medicines Agency, London** (Jun 2015 to Apr 2016)   
@@ -107,12 +91,15 @@ Whilst assisting the Signal Management Service Team at the European Medicines Ag
 *Personal Assistant (Sales & Marketing)*  
 
 **European Medicines Agency, London** (Feb 2009 to Mar 2011)   
-*OFFICE ASSISTANT/ ASSISTANT TO SECTION HEAD*  
+*Office Assistant & Assistant to the Section Head (Paediatric Medicines)*  
 
 **NHS Trust (Community Forensic Mental Health Team), London** (Sep 2008 to Jan 2009)   
-*PA/TEAM ADMINISTRATOR*  
+*Personal Assistant*  
 
 **NHS Trust (Community Elderly Mental Health Team), London** (Sep 2007 to Aug 2008)   
+*Administrator*
+
+**KÖHLER Rechtsanwälte, Lawyer's Office, Mannheim/Germany** (Mar 2005 to Jul 2007)   
 *Administrator*
 
 ## Interests

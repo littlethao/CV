@@ -2,7 +2,7 @@
 
 Recent graduate from Makers Academy, an intensive 16-week coding bootcamp, who has over 10 years of experience working in a variety of different support roles in law, medicine, retail, hospitality and business. Lived and worked in Germany, Mauritius and the United Kingdom.
 
-[Profile](#profile) | [Education](#education) | [Projects](#projects) | [Personal Attributes](#personal attributes) | [Other qualifications](#other qualifications) | [Professional Experience](#professional experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
+[Profile](#profile) | [Education](#education) | [Projects](#projects) | [Personal Attributes](#personal attributes) | [Other qualifications](#other qualifications) | [Professional Experience](#rofessional experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
 
 ## Profile
 
@@ -36,7 +36,7 @@ Project name  | Description  									| Development timeframe | Technologies | T
 [Instagram clone](https://github.com/littlethao/instagram-challenge.git) | A simple version of Instagram | 2 days (Individual) | Ruby, Rails, Devise, PaperClip/ImageMagick, PostgreSQL | RSpec-rails, Capybara, Shoulda  
 [Chitter challenge](https://github.com/littlethao/chitter-challenge.git) | A mini reproduction of Twitter | 2 days (Individual) | Ruby, Sinatra, Rake, DataMapper, BCrypt, PostgreSQL | RSpec, Capybara
 
-## Personal Attributes
+## Personal attributes
 
 #### Curious learner & mentor
 

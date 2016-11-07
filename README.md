@@ -1,16 +1,39 @@
-## Thao Vo
+# Thao Vo
 
-Recent graduate from Makers Academy, an intensive 16-week Web Developer bootcamp, who has 9 years experience working in a variety of different support roles in medicine, retail, hospitality and business. Lived and worked in Germany, Mauritius and the United Kingdom.
+Recent graduate from Makers Academy, an intensive 16-week coding bootcamp, who has over 10 years of experience working in a variety of different support roles in law, medicine, retail, hospitality and business. Lived and worked in Germany, Mauritius and the United Kingdom.
 
-[Profile](#profile) | [Personal Attributes](#personal attributes) | [Projects](#projects) |  [Education](#education) | [Other qualifications](#other qualifications) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
+[Profile](#profile) | [Education](#education) | [Projects](#projects) | [Personal Attributes](#personal attributes) | [Other qualifications](#other qualifications) | [Professional Experience](#professional experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
 
 ## Profile
 
-I left a well-established career and joined Makers Academy to acquire new skills in web development to pursue a complete career change in to tech, convinced that it will allow me to work in a creative industry where I'm learning every day.
+I left a well-established career and joined Makers Academy to acquire software development skills to pursue a complete career change in to tech, convinced that it will allow me to work in a creative industry where I'm learning every day.
 
-I am most passionate about education, social development, travel and healthcare as well as getting involved in creative things that make people smile. I enjoyed running German classes for colleagues at VWR, organised team challenges at the Hilton Hotels & Resorts and had good fun being the Event Photographer for the Young Barristers' Committee (YBC) in Mauritius.
+I am most passionate about education, social development, travel and healthcare as well as getting involved in creative things that make people smile.
 
 I am currently looking for a **Full Stack Junior Developer role**, where I will be constantly challenged while evolving my new development skills. I'd love to join an innovative team that is passionate about creating great software that have a positive impact on people's lives.
+
+## Education
+
+#### Makers Academy (Jul 2016 to Nov 2016)
+
+From a complete beginner in coding, I have produced over 10 projects independently and collaboratively, all completed under very tight time constraints at Makers Academy whilst learning about agile methods and practice, a variety of technologies and programming concepts with focus on:
+
+- Software Craftsmanship
+- OOP, TDD, BDD, SOLID and MVC principles
+- Pair programming, independent learning and problem-solving
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine, Zombie
+
+
+#### Projects
+
+Below are a few selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
+
+Project name  | Description  									| Development timeframe | Technologies | Testing
+------------- | ------------------------------	| ------------- |------------- |---------
+[Attendr](https://github.com/littlethao/attendr.git) | An events driven dating platform which matches people based on events they are both interested in. | 8 days (Teamwork) | Swift 3, xCode, NodeJS, PostgreSQL, Firebase, Facebook iOS SDK | Jasmine
+[MakersBnB](https://github.com/littlethao/makers_bnb.git) | AirBnb the Makers way | 4 days (Teamwork) | Javascript, JQuery, NodeJS, PostgreSQL, Knex/Bookmark, Html, Bootstrap CSS | Jasmine, Zombie
+[Chitter challenge](https://github.com/littlethao/chitter-challenge.git) | A mini reproduction of Twitter | 2 days (Individual) | Ruby, Sinatra, Rake, DataMapper, BCrypt, PostgreSQL | RSpec, Capybara
 
 ## Personal Attributes
 
@@ -36,31 +59,6 @@ Every role in my professional experience required me to be well organised, adapt
 - French (CEFR A2.1 Certificate - lived and worked in Mauritius for 4 years)
 - Italian (basic level/high school module - comes in handy for travelling in Italy)
 
-## Education
-
-#### Makers Academy (Jul 2016 to Nov 2016)
-
-From a complete beginner in coding, I have produced over 10 projects independently and collaboratively, all completed under very tight time constraints at Makers Academy whilst learning about agile methods and practice, a variety of technologies and programming concepts with focus on:
-
-- Software Craftsmanship
-- OOP, TDD, BDD, SOLID and MVC principles
-- Pair programming, independent learning and problem-solving
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Zombie
-
-
-#### Projects
-
-Below are a few selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
-
-
-Project name  | Description  									| Development timeframe | Technologies | Testing
-------------- | ------------------------------	| ------------- |------------- |---------
-[Attendr](https://github.com/littlethao/attendr.git) | An events driven dating platform which matches people based on events they are both interested in. | 8 days (Teamwork) | Swift 3, xCode, NodeJS, PostgreSQL, Firebase, Facebook iOS SDK | Jasmine
-[MakersBnB](https://github.com/littlethao/makers_bnb.git) | AirBnb the Makers way | 4 days | Javascript, JQuery, NodeJS, PostgreSQL, Knex/Bookmark, Bootstrap CSS | Jasmine, Zombie
-[Instagram clone](https://github.com/littlethao/instagram-challenge.git) | A simple version of Instagram | 2 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha, Chai
-[Chitter challenge](https://github.com/littlethao/chitter-challenge.git) | A mini reproduction of Twitter | 2 days | NodeJS, Javascript, Sequelize, PostgreSQL| Zombie, Mocha, Chai
-
 ## Other qualifications
 
 - **PRINCE2® (2009) Foundation, APMG International (passed: May 2016)**  
@@ -69,41 +67,21 @@ Introduction to PRINCE2 project management method, its principles, themes and te
 - **Diploma Tourism Management - Academy of Economics and World Trading Languages, Germany** (Oct 2003 to Sep 2006)
 - **A levels** - Droste-Hülshoff-Gymnasium, Germany (grad.: Jun 2002)
 
-## Experience
+## Professional experience
 
+Over 10 years of professional support roles working with:  
 **CB Equity Partners, London** (Jul 2016)   
-*Executive Assistant / Office Manager (Holiday Cover)*  
-
 **European Medicines Agency, London** (Jun 2015 to Apr 2016)   
-*Assistant - Techn. & Meeting Support (Maternity Cover)*  
-
-**John Lewis Headquarter, London** (Mar 2016 to May 2016)   
-*PA to a Director and three Heads of Online Department  (Temporary Assignment)*  
-
-**VWR, Mauritius** (Mar 2013 to Feb 2014 / Mar 2014 to Dec 2014)   
-*Senior Associate (Switzerland Operations)*  
-*Quotation Associate (Switzerland Operations)*  
-
+**John Lewis Headquarter, London** (Mar 2016 to May 2016)     
+**VWR, Mauritius** (Mar 2013 to Dec 2014)  
 **Hilton Hotels & Resort, Mauritius** (Dec 2011 to Feb 2013)   
-*Guest Relations Officer*  
-
 **Jade Group, Mauritius** (Aug 2011 to Nov 2011)   
-*Personal Assistant (Sales & Marketing)*  
-
 **European Medicines Agency, London** (Feb 2009 to Mar 2011)   
-*Office Assistant & Assistant to the Section Head (Paediatric Medicines)*  
-
 **NHS Trust (Community Forensic Mental Health Team), London** (Sep 2008 to Jan 2009)   
-*Personal Assistant*  
-
 **NHS Trust (Community Elderly Mental Health Team), London** (Sep 2007 to Aug 2008)   
-*Administrator*
-
 **KÖHLER Rechtsanwälte, Lawyer's Office, Mannheim/Germany** (Mar 2005 to Jul 2007)   
-*Administrator*
 
 ## Interests
 
-The sounds of **music** and a good **run** hold the power of good balance in me;    
-
-**Food**, **Travel** and **photography** offer me fascinating journeys to explore cultures, to connect to people and the beauty of life.
+- The sounds of **music** and a good **run** hold the power of good balance in me;    
+- **Food**, **Travel** and **photography** offer me fascinating journeys to explore cultures, to connect to people and the beauty of life.

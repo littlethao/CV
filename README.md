@@ -33,6 +33,7 @@ Project name  | Description  									| Development timeframe | Technologies | T
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Attendr](https://github.com/littlethao/attendr.git) | An events driven dating platform which matches people based on events they are both interested in. | 8 days (Teamwork) | Swift 3, xCode, NodeJS, PostgreSQL, Firebase, Facebook iOS SDK | Jasmine
 [MakersBnB](https://github.com/littlethao/makers_bnb.git) | AirBnb the Makers way | 4 days (Teamwork) | Javascript, JQuery, NodeJS, PostgreSQL, Knex/Bookmark, Html, Bootstrap CSS | Jasmine, Zombie
+[Instagram clone](https://github.com/littlethao/instagram-challenge.git) | A simple version of Instagram | 2 days (Individual) | Ruby, Rails, Devise, PaperClip/ImageMagick, PostgreSQL | RSpec-rails, Capybara, Shoulda  
 [Chitter challenge](https://github.com/littlethao/chitter-challenge.git) | A mini reproduction of Twitter | 2 days (Individual) | Ruby, Sinatra, Rake, DataMapper, BCrypt, PostgreSQL | RSpec, Capybara
 
 ## Personal Attributes
@@ -69,7 +70,8 @@ Introduction to PRINCE2 project management method, its principles, themes and te
 
 ## Professional experience
 
-Over 10 years of professional support roles working with:  
+*Over 10 years taking on various support roles and operational lead working with:*
+
 **CB Equity Partners, London** (Jul 2016)   
 **European Medicines Agency, London** (Jun 2015 to Apr 2016)   
 **John Lewis Headquarter, London** (Mar 2016 to May 2016)     

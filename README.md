@@ -27,7 +27,7 @@ From a complete beginner in coding, I have produced over 10 projects independent
 
 #### Projects
 
-Below are a few selected projects listed in a chronological order to demonstrate the increasing complexity of the projects.
+Below are a few selected projects listed in a chronological order to demonstrate the increasing complexity of the projects worked on whilst at Makers Academy.
 
 Project name  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
@@ -81,7 +81,7 @@ Introduction to PRINCE2 project management method, its principles, themes and te
 **European Medicines Agency, London** (Feb 2009 to Mar 2011)   
 **NHS Trust (Community Forensic Mental Health Team), London** (Sep 2008 to Jan 2009)   
 **NHS Trust (Community Elderly Mental Health Team), London** (Sep 2007 to Aug 2008)   
-**KÖHLER Rechtsanwälte, Lawyer's Office, Mannheim/Germany** (Mar 2005 to Jul 2007)   
+**KÖHLER Rechtsanwälte, Lawyer's Office, Mannheim/Germany** (Mar 2005 to Jul 2006)   
 
 ## Interests
 

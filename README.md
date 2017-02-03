@@ -10,7 +10,7 @@ I left a well-established career and joined Makers Academy to acquire software d
 
 I am most passionate about education, social development, travel and healthcare as well as getting involved in creative things that make people smile.
 
-I am currently looking for a **Full Stack Junior Developer role**, where I will be constantly challenged while evolving my new development skills. I'd love to join an innovative team that is passionate about creating great software that have a positive impact on people's lives.
+I am currently looking for a **Junior Full Stack Developer role**, where I will be constantly challenged while evolving my new development skills. I'd love to join an innovative team that is passionate about creating great software that have a positive impact on people's lives.
 
 ## Education
 

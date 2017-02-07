@@ -74,7 +74,7 @@ Introduction to PRINCE2 project management method, its principles, themes and te
 
 **CB Equity Partners, London** (Jul 2016)   
 **European Medicines Agency, London** (Jun 2015 to Apr 2016)   
-**John Lewis Headquarter, London** (Mar 2016 to May 2016)     
+**John Lewis Headquarter, London** (Mar to May 2015)     
 **VWR, Mauritius** (Mar 2013 to Dec 2014)  
 **Hilton Hotels & Resort, Mauritius** (Dec 2011 to Feb 2013)   
 **Jade Group, Mauritius** (Aug 2011 to Nov 2011)   

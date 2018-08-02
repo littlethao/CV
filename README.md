@@ -1,10 +1,10 @@
 # Thao Vo
 
-Aspiring Software Developer who is keen to create high-quality software that has a positive impact on people's life.
+Aspiring **Software Developer** who is keen to create high-quality software that has a positive impact on people's life.
 
 Looking to further my career within a professional and successful company. I'd love to join an innovative team that is passionate about creating great software that have a positive impact on people's lives.
 
-[Profile](#profile) | [Professional Experience](#professional-experience) | [Education](#education) | [Personal attributes](#personal-attributes) | [Other qualifications](#other-qualifications) | [Previous professional experience](#previous-professional-experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo)
+[Profile](#profile) | [Professional Experience](#professional-experience) | [Education](#education) | [Languages](#languages) | [Other qualifications](#other-qualifications) | [Previous professional experience](#previous-professional-experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo)
 
 ## Profile
 
@@ -70,7 +70,7 @@ Project name  | Description  									| Development timeframe | Technologies | T
 [Chitter challenge](https://github.com/littlethao/chitter-challenge.git) | A mini reproduction of Twitter | 2 days (Individual) | Ruby, Sinatra, Rake, DataMapper, BCrypt, PostgreSQL | RSpec, Capybara
 
 
-#### Languages
+## Languages
 
 - English (main language in daily and professional practice since 2006)
 - French (CEFR A2.1 Certificate - lived and worked in Mauritius for 4 years)

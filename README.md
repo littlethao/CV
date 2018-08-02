@@ -1,16 +1,49 @@
 # Thao Vo
 
-Recent graduate from Makers Academy, an intensive 16-week coding bootcamp, who has over 10 years of experience working in a variety of different support roles in law, medicine, retail, hospitality and business. Lived and worked in Germany, Mauritius and the United Kingdom.
+Aspiring Software Developer who is keen to create high-quality software that has a positive impact on people's life.
 
-[Profile](#profile) | [Education](#education) | [Projects](#projects) | [Personal attributes](#personal-attributes) | [Other qualifications](#other-qualifications) | [Professional experience](#professional-experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo-85384a31)
+Looking to further my career within a professional and successful company. I'd love to join an innovative team that is passionate about creating great software that have a positive impact on people's lives.
+
+[Profile](#profile) | [Professional Experience](#professional-experience) | [Education](#education) | [Personal attributes](#personal-attributes) | [Other qualifications](#other-qualifications) | [Previous professional experience](#previous-professional-experience) | [Interests](#interests) | [LinkedIn](https://uk.linkedin.com/in/thao-vo)
 
 ## Profile
 
-I left a well-established career and joined Makers Academy to acquire software development skills to pursue a complete career change in to tech, convinced that it will allow me to work in a creative industry where I'm learning every day.
+I left a well-established career and joined Makers Academy to acquire software development skills to pursue a complete career change into tech, convinced that it will allow me to work in a creative industry where I'm learning every day.
 
 I am most passionate about education, social development, travel and healthcare as well as getting involved in creative things that make people smile.
 
-I am currently looking for a **Full Stack Junior Developer role**, where I will be constantly challenged while evolving my new development skills. I'd love to join an innovative team that is passionate about creating great software that have a positive impact on people's lives.
+In my free time, I enjoy getting involved with open-source communities and meetup groups such as [Women Hack for Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/about.html) or [Women Who Code](https://www.womenwhocode.com/london), and I had a great experience volunteering as Coach at the [Rails Girls London](http://railsgirls.com/london.html) event in 2017
+
+## Professional Experience
+
+**BookingBug Ltd., London**   
+&nbsp;&nbsp;** *Software Developer* ** (January 2018 - Present)  
+&nbsp;&nbsp;Projects worked on:  
+- Salesforce integration
+- Google Reserve
+
+&nbsp;&nbsp;** *Junior Developer* ** (March 2017 - December 2017)  
+&nbsp;&nbsp;Projects worked on:
+- Salesforce integration
+- Microsoft Exchange integration
+- Reporting system
+
+Day-to-day responsibilities include, but are not limited to:
+- Code reviewing
+- Error monitoring
+- Release management and deployment to servers
+- Expanding on REST APIs
+- Maintaining code, refactoring and adding features across the code base
+- Working closely with PMs, QAs and CSM teams
+
+Main technology stack and practice of:
+- Ruby, Ruby on Rails
+- TDD (RSpec)
+- HTML5, CSS, JavaScript
+- Git and Gitflow
+- Jira
+- Scrum
+
 
 ## Education
 
@@ -36,29 +69,14 @@ Project name  | Description  									| Development timeframe | Technologies | T
 [Instagram clone](https://github.com/littlethao/instagram-challenge.git) | A simple version of Instagram | 2 days (Individual) | Ruby, Rails, Devise, PaperClip/ImageMagick, PostgreSQL | RSpec-rails, Capybara, Shoulda  
 [Chitter challenge](https://github.com/littlethao/chitter-challenge.git) | A mini reproduction of Twitter | 2 days (Individual) | Ruby, Sinatra, Rake, DataMapper, BCrypt, PostgreSQL | RSpec, Capybara
 
-## Personal attributes
-
-#### Curious learner & mentor
-
-Always on a hunt for pursuing new knowledge, I always wonder how things work and plunge into new areas around my tasks, asking questions and trying out new things. My curiosity in understanding the broader picture around my work got me involved in the training of several new aspects of business operations and eventually I took over more operational procedures on site in Mauritius.
-
-As I was promoted to Senior to overlook the Swiss operational team on site, I saw it as an opportunity to create more mentoring opportunities to share knowledge within the whole team, which then improved the team performance by + 0.6 points within 4 months.
-
-#### Detail-oriented problem solver
-
-Whilst assisting the Signal Management Service Team at the European Medicines Agency, I managed and maintained the team's procedures on various databases and systems. I spotted that the current database did not cover the edge cases of our procedures, which lead to incorrect timelines being recorded. This also lead to incorrect data being forwarded to Committee members in other EU countries, which in turn leads to delay of task distribution. I came up with various steps that can be taken to resolve this issue, presented these to our Data Management and Technology Services teams. We were then able to rule out the best solution and implemented the changes shortly after.
-
-#### Organised team player & individualist
-
-Every role in my professional experience required me to be well organised, adaptable to change and whilst being flexible to respond to the multiple tasks and team members on often strict timelines, they also needed me to be capable to work independently and under little guidance. Feedback from my colleagues and line managers have always been that they were able to rely on me to ensure that procedures are being kept in line with the given procedural guidelines, regulations and timelines.
 
 #### Languages
 
-- German (born and bred in Germany)
-- Vietnamese (upbringing with good mixture of Vietnamese culture and family values)
 - English (main language in daily and professional practice since 2006)
 - French (CEFR A2.1 Certificate - lived and worked in Mauritius for 4 years)
-- Italian (basic level/high school module - comes in handy for travelling in Italy)
+- German (born and bred in Germany)
+- Vietnamese (upbringing with good mixture of Vietnamese culture and family values)
+
 
 ## Other qualifications
 
@@ -68,19 +86,17 @@ Introduction to PRINCE2 project management method, its principles, themes and te
 - **Diploma Tourism Management - Academy of Economics and World Trading Languages, Germany** (Oct 2003 to Sep 2006)
 - **A levels** - Droste-Hülshoff-Gymnasium, Germany (grad.: Jun 2002)
 
-## Professional experience
+## Previous professional experience
 
 *Over 10 years taking on various support roles and operational lead working with:*
 
 **CB Equity Partners, London** (Jul 2016)   
-**European Medicines Agency, London** (Jun 2015 to Apr 2016)   
+**European Medicines Agency, London** (Jun 2015 to Apr 2016 / Feb 2009 to Mar 2011)   
 **John Lewis Headquarter, London** (Mar 2016 to May 2016)     
 **VWR, Mauritius** (Mar 2013 to Dec 2014)  
-**Hilton Hotels & Resort, Mauritius** (Dec 2011 to Feb 2013)   
+**Hilton Hotels & Resort, Mauritius** (Dec 2011 to Feb 2013)  
 **Jade Group, Mauritius** (Aug 2011 to Nov 2011)   
-**European Medicines Agency, London** (Feb 2009 to Mar 2011)   
-**NHS Trust (Community Forensic Mental Health Team), London** (Sep 2008 to Jan 2009)   
-**NHS Trust (Community Elderly Mental Health Team), London** (Sep 2007 to Aug 2008)   
+**NHS Trust (Community Mental Health Teams), London** (Sep 2007 to Jan 2009)   
 **KÖHLER Rechtsanwälte, Lawyer's Office, Mannheim/Germany** (Mar 2005 to Jul 2007)   
 
 ## Interests
